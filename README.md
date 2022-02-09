@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @LiorDaniel
-- 👀 I’m interested in Front-end developing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+Hi! My name is Lior Daniel. I am a creative Front-end developer.✨
+I am intersted in technology, innovation, and creating high quality web experiences.😀�
 <!---
 LiorDaniel/LiorDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
